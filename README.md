@@ -1,1 +1,1 @@
-Exact the same thing as my into-the-future project/repo just in go using goroutines
+how to make batches of async calls using goroutines
